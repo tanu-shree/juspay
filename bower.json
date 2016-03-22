@@ -1,5 +1,6 @@
 {
   "name": "juspay",
+  "version": "0.0.1",
   "main": "juspay.js",
   "description": "",
   "moduleType": [],
