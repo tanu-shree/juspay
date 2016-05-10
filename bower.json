@@ -1,6 +1,7 @@
 {
   "name": "juspay",
-  "main": "juspay.js",
+  "version": "0.0.5",
+  "main": ["jquery-1.8.3.min.js","juspay.js"],
   "description": "",
   "moduleType": [],
   "license": "MIT",
